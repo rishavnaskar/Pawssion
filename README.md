@@ -13,7 +13,9 @@
 </p>
 
 ## Video Demo 🎥
-https://user-images.githubusercontent.com/91699007/227782770-fa4c21f3-6062-4bce-96c5-bbdbb3b9b477.mp4
+https://user-images.githubusercontent.com/59786899/227789964-42dbf6a3-14c7-4833-a286-20e69f5b0808.mp4
+
+
 
 ## Screenshot 📷
 <p align=left> 
@@ -54,8 +56,6 @@ Photos Page             | Videos Page
 :-------------------------:|:-------------------------:
 ![3](https://user-images.githubusercontent.com/91699007/227781795-a155c7bc-349e-41e3-81b9-8231215698d2.jpg)  |  ![2](https://user-images.githubusercontent.com/91699007/227781788-27a60799-14ab-436f-bf4a-eaf8a7ea04ec.jpg)
 </details>
-
-
 
 </details>
 

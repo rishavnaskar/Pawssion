@@ -67,8 +67,6 @@ Photos Page             | Videos Page
 * Go to the "build/app/outputs/apk/release/"
 * Copy and install the "app-release.apk" in your phone
                                         
-# <p align="center">Contributors 🤝
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=rishavnaskar/Pawssion) 
                    
 

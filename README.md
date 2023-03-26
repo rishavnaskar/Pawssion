@@ -1,6 +1,6 @@
 <p align=center> 
-<image src = "https://user-images.githubusercontent.com/91699007/227780764-8ca05b4e-cab3-459e-9f2a-e83cfab88fb2.jpg" width = 150 >
-</p>
+<image src = "https://user-images.githubusercontent.com/91699007/227789267-18f8b99f-423c-4b8b-abaa-d426ca1c7e44.png" width = 150 >
+
 
 ---
 <h1 align="center">Pawssion</h1>
